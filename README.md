@@ -1,4 +1,6 @@
-## Hi there 👋
+# Портфолио
+
+*Когда-нибудь я заполню тут всё*
 
 <!--
 **FastSnake0/FastSnake0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
